@@ -14,6 +14,6 @@ Sinta-se à vontade para fazer perguntas ou iniciar discussões nos 'Issues'.
 
 ## Contato
 
-Se você tiver alguma dúvida ou quiser discutir algo em particular, sinta-se à vontade para abrir uma 'Issue. Você também pode me contatar diretamente através do meu e-mail: **daiane@daiane.adv.br** ou pelo meu perfil no LinkedIn: **daiane-pinheiro-advogada**
+Se você tiver alguma dúvida ou quiser discutir algo em particular, sinta-se à vontade para abrir uma 'Issue. Você também pode me contatar diretamente através do meu e-mail: **daiane@daiane.adv.br** ou pelo meu perfil no LinkedIn: www.linkedin.com/in/daiane-pinheiro-advogada
 
 Obrigada por visitar este repositório!
